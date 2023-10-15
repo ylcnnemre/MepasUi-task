@@ -1,6 +1,7 @@
-import React from 'react'
+
 import { Col, Row, Button, Dropdown, DropdownButton, Form } from "react-bootstrap"
 import { Search, GeoAltFill, Pencil } from "react-bootstrap-icons"
+
 const CardMenu = () => {
     return (
         <div className='mt-4'>
